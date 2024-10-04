@@ -14,6 +14,7 @@ Esta biblioteca em Python foi desenvolvida para facilitar a integração com a A
   - Usuários (users)
   - Produtos (products)
   - Pipelines de vendas
+  - Outros
 - **Tratamento automático de erros**: A biblioteca cuida de autenticação, requisições HTTP e tratamento de erros.
 
 Ideal para quem deseja automatizar e integrar os dados do Pipedrive em sistemas ou fluxos de trabalho personalizados.
